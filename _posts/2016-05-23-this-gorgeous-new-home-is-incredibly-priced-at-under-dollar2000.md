@@ -4,15 +4,15 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: " This gorgeous new home is incredibly priced at under $200,000 and the location cannot be beat. You'll enjoy Granite Counter Tops, Stainless Steel Appliances, Full Irrigation Systems, and Ceramic Tile - ALL INCLUDED at no additional cost!  .  .  .  . "
-datePublished: '2016-05-23T02:54:05.612Z'
-dateModified: '2016-05-23T02:53:35.038Z'
-authors: []
-publisher: null
+description: " This gorgeous new home is incredibly priced at under $200,000 and the location cannot be beat. You'll enjoy Granite Counter Tops, Stainless Steel Appliances, Full Irrigation Systems, and Ceramic Tile - ALL INCLUDED at no additional cost!  .  .  .  ."
+datePublished: '2016-05-23T03:13:34.690Z'
+dateModified: '2016-05-23T02:54:13.782Z'
 title: ''
 author: []
-starred: false
 sourcePath: _posts/2016-05-23-this-gorgeous-new-home-is-incredibly-priced-at-under-dollar2000.md
+authors: []
+publisher: null
+starred: false
 url: this-gorgeous-new-home-is-incredibly-priced-at-under-dollar2000/index.html
 _type: Article
 
