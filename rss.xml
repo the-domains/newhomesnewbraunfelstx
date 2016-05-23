@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[NewHomesNewBraunfelsTX]]></title>
+        <description><![CDATA[NewHomesNewBraunfelsTX]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 23 May 2016 02:54:38 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p> This gorgeous new home is incredibly priced at under $200,000 and the location cannot be beat. You'll enjoy Granite Counter Tops, Stainless Steel Appliances, Full Irrigation Systems, and Ceramic Tile - ALL INCLUDED at no additional cost! . . . .</p>]]></description>
+            <link>undefinedthis-gorgeous-new-home-is-incredibly-priced-at-under-dollar2000/index.html</link>
+            <guid isPermaLink="false">8618dfe5-d468-437c-96fa-1d2a89844845</guid>
+            <pubDate>Mon, 23 May 2016 02:54:05 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
